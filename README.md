@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ASWIN_AK
-- 👀 I’m interested in cyber security as well as Web Development
+- 👀 I’m interested in cyber security as well as Web & Android Development
 - 🌱 I’m currently doing B.tech IT @CUSAT
 - 📫 Reach <a href="https://api.whatsapp.com/send/?phone=918848590435&text&app_absent=0" target="_blank">me</a>
 
